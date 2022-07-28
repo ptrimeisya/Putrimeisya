@@ -1,0 +1,15 @@
+.navbar {
+  justify-content: space-evenly;
+  border: 10px solid black;
+  height: 60px;
+  align-items: center;
+  background-color: black;
+}
+.navbar a {
+  margin-left: 60px;
+  margin-right: 150px;
+  text-decoration: none;
+  color: pink;
+  font-size: 20px;
+  font-family: Monstserrat;
+}
